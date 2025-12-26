@@ -1,4 +1,4 @@
-package com.example.flutter_base01
+package com.samydex.focoapp
 
 import io.flutter.embedding.android.FlutterActivity
 
